@@ -40,7 +40,7 @@ I’m passionate about turning data into actionable insights and telling stories
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshitaPagaria&layout=compact&theme=radical" alt="Top Languages by Lakshita Pagaria" />
 </p>
----
+
 
 ## 🎯 What I’m Learning  
 - Advanced statistical techniques: hypothesis testing, regression, predictive modelling.  
